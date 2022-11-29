@@ -22,12 +22,6 @@ https://www.zoosk.com/whoviewed
 
 ## Date card
 
-https://www.zoosk.com/datecard/*
-
-https://www.zoosk.com/datecard/guid=111
+https://www.zoosk.com/datecard/111
 
 https://www.zoosk.com/personals/datecard/111
-
-https://www.zoosk.com/personals/datecard/guid=111
-
-https://www.zoosk.com/edit?guid=111
